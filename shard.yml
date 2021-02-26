@@ -1,0 +1,9 @@
+name: crib3
+version: 0.1.0
+
+authors:
+  - wesrer <sayakchatterjee1309@gmail.com>
+
+crystal: 0.36.1
+
+license: MIT
